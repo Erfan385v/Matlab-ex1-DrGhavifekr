@@ -6,7 +6,7 @@ r_halge=1;
 
 centers = [0,1; 1.1, 0 ;  2.2, 1;  3.3, 0;   4.4, 1]; 
 
-cir_colors=['b','r','m','g','y'];
+cir_colors=['r' ,'g','k','y' ,'b'];
 
 figure;
 hold on;
@@ -19,4 +19,4 @@ end
 hold on;
 axis equal;
 title('Olympic flag');
-grid on;
+
